@@ -9,4 +9,3 @@ Package :
 - Polybar
 - Spotify Status
 - Cava
-
